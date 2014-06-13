@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 '''
 Playlist Generator
 This module can generate .m3u playlists with tv guide
@@ -5,16 +6,18 @@ and groups
 '''
 import re
 import urllib2
+import TvgFixer
 
 class PlaylistGenerator(object):
 
     m3uheader = \
         '#EXTM3U url-tvg="http://www.teleguide.info/download/new3/jtv.zip"\n'
     m3uchanneltemplate = \
-        '#EXTINF:-1 group-title="%s" tvg-name="%s",%s\n%s\n'
+        '#EXTINF:-1 group-title="%s" %s,%s\n%s\n'
 
     def __init__(self):
         self.itemlist = list()
+        self.tvgfixer = TvgFixer.TvgFix()
 
     def addItem(self, itemdict):
         '''
@@ -27,13 +30,12 @@ class PlaylistGenerator(object):
         '''
         self.itemlist.append(itemdict)
 
-    @staticmethod
-    def _generatem3uline(item):
+    def generatem3uline(self, item):
         '''
         Generates EXTINF line with url
         '''
         return PlaylistGenerator.m3uchanneltemplate % (
-            item.get('group', ''), item.get('tvg', ''),
+            item.get('group', ''), self.tvgfixer.getTvg(item.get('tvg', ''),item.get('name')),
             item.get('name'), item.get('url'))
 
     def exportm3u(self, hostport, add_ts=False):
@@ -56,6 +58,6 @@ class PlaylistGenerator(object):
             item['url'] = re.sub('^(acestream://)?(?P<pid>[0-9a-f]{40})$', 'http://' + hostport + '/pid/\\g<pid>/stream.mp4',
                                     item['url'], flags=re.MULTILINE)
 
-            itemlist += PlaylistGenerator._generatem3uline(item)
+            itemlist += self.generatem3uline(item)
 
         return itemlist

@@ -1,0 +1,1533 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<data>
+    <channel name="1+1 (резерв)">
+		<tvgname>1+1_резерв</tvgname>
+		<tvgid>10110</tvgid>
+		<tvgshift>3</tvgshift>
+	</channel>
+	<channel name="Мир (+3)">
+		<tvgname>МИР</tvgname>
+		<tvgid>100010</tvgid>
+		<tvgshift>3</tvgshift>
+	</channel>
+	<channel name="Первый канал (+4)">
+		<tvgname>Первый_канал</tvgname>
+		<tvgid>1</tvgid>
+		<tvgshift>4</tvgshift>
+	</channel>
+	<channel name="Первый канал HD(+4)">
+		<tvgname>Первый_HD</tvgname>
+		<tvgid>300125</tvgid>
+		<tvgshift>4</tvgshift>
+	</channel>
+	<channel name="Пятница (+2)">
+		<tvgname>Пятница</tvgname>
+		<tvgid>1671</tvgid>
+		<tvgshift>2</tvgshift>
+	</channel>
+	<channel name="РЕН ТВ  (+7)">
+		<tvgname>РЕН_ТВ</tvgname>
+		<tvgid>103</tvgid>
+		<tvgshift>7</tvgshift>
+	</channel>
+	<channel name="Россия 1 (+4)">
+		<tvgname>Россия_1</tvgname>
+		<tvgid>2</tvgid>
+		<tvgshift>4</tvgshift>
+	</channel>
+	<channel name="СТС (+2)">
+		<tvgname>СТС</tvgname>
+		<tvgid>104</tvgid>
+		<tvgshift>2</tvgshift>
+	</channel>
+	<channel name="ТВ 3 (+3)">
+		<tvgname>ТВ-3</tvgname>
+		<tvgid>105</tvgid>
+		<tvgshift>2</tvgshift>
+	</channel>
+	<channel name="ТНТ (+2)">
+		<tvgname>ТНТ</tvgname>
+		<tvgid>101</tvgid>
+		<tvgshift>2</tvgshift>
+	</channel>
+	<channel name="Первый канал">
+		<tvgname>Первый_канал</tvgname>
+		<tvgid>1</tvgid>
+		<tvgshift>0</tvgshift>
+	</channel>
+	<channel name="ОТР">
+		<tvgname>ОТР</tvgname>
+		<tvgid>1000</tvgid>
+		<tvgshift>0</tvgshift>
+	</channel>
+	<channel name="НТВ+ Футбол 2">
+		<tvgname>НТВ-ПЛЮС_Футбол_2</tvgname>
+		<tvgid>100001</tvgid>
+		<tvgshift>0</tvgshift>
+	</channel>
+	<channel name="Дом кино">
+		<tvgname>Дом_кино</tvgname>
+		<tvgid>100002</tvgid>
+		<tvgshift>0</tvgshift>
+	</channel>
+	<channel name="EuroSport 2 (резерв)">
+		<tvgname>Eurosport_2</tvgname>
+		<tvgid>100008</tvgid>
+		<tvgshift>0</tvgshift>
+	</channel>
+	<channel name="Eurosport 2">
+		<tvgname>Eurosport_2</tvgname>
+		<tvgid>100008</tvgid>
+		<tvgshift>0</tvgshift>
+	</channel>
+	<channel name="CCTV Русский">
+		<tvgname>CCTV-Русский</tvgname>
+		<tvgid>100009</tvgid>
+		<tvgshift>0</tvgshift>
+	</channel>
+	<channel name="Мир">
+		<tvgname>МИР</tvgname>
+		<tvgid>100010</tvgid>
+		<tvgshift>0</tvgshift>
+	</channel>
+	<channel name="Мир HD">
+		<tvgname>МИР</tvgname>
+		<tvgid>100010</tvgid>
+		<tvgshift>0</tvgshift>
+	</channel>
+	<channel name="Парк развлечений">
+		<tvgname>Парк_развлечений</tvgname>
+		<tvgid>100013</tvgid>
+		<tvgshift>0</tvgshift>
+	</channel>
+	<channel name="Ностальгия">
+		<tvgname>Ностальгия</tvgname>
+		<tvgid>100016</tvgid>
+		<tvgshift>0</tvgshift>
+	</channel>
+	<channel name="World Fashion">
+		<tvgname>World_Fashion_Channel_(рус.)</tvgname>
+		<tvgid>100017</tvgid>
+		<tvgshift>0</tvgshift>
+	</channel>
+	<channel name="ТДК">
+		<tvgname>ТДК</tvgname>
+		<tvgid>100018</tvgid>
+		<tvgshift>0</tvgshift>
+	</channel>
+	<channel name="TLC">
+		<tvgname>TLC</tvgname>
+		<tvgid>100022</tvgid>
+		<tvgshift>0</tvgshift>
+	</channel>
+	<channel name="24 Док">
+		<tvgname>24_ДОК</tvgname>
+		<tvgid>100023</tvgid>
+		<tvgshift>0</tvgshift>
+	</channel>
+	<channel name="Совершенно секретно">
+		<tvgname>Совершенно_Секретно</tvgname>
+		<tvgid>100024</tvgid>
+		<tvgshift>0</tvgshift>
+	</channel>
+	<channel name="VH1 Classic">
+		<tvgname>VH1_Classic</tvgname>
+		<tvgid>100026</tvgid>
+		<tvgshift>0</tvgshift>
+	</channel>
+	<channel name="MTV Dance">
+		<tvgname>MTV_Dance</tvgname>
+		<tvgid>100029</tvgid>
+		<tvgshift>0</tvgshift>
+	</channel>
+	<channel name="MCM Top">
+		<tvgname>MCM_Top</tvgname>
+		<tvgid>100030</tvgid>
+		<tvgshift>0</tvgshift>
+	</channel>
+	<channel name="Музыка Первого">
+		<tvgname>Музыка_Первого</tvgname>
+		<tvgid>100032</tvgid>
+		<tvgshift>0</tvgshift>
+	</channel>
+	<channel name="Russia Today">
+		<tvgname>Russia_Today</tvgname>
+		<tvgid>100036</tvgid>
+		<tvgshift>0</tvgshift>
+	</channel>
+	<channel name="Russia Today HD">
+		<tvgname>Russia_Today</tvgname>
+		<tvgid>100036</tvgid>
+		<tvgshift>0</tvgshift>
+	</channel>
+	<channel name="HD Кино">
+		<tvgname>HD_Кино</tvgname>
+		<tvgid>100037</tvgid>
+		<tvgshift>0</tvgshift>
+	</channel>
+	<channel name="HD Спорт">
+		<tvgname>HD_Спорт</tvgname>
+		<tvgid>100038</tvgid>
+		<tvgshift>0</tvgshift>
+	</channel>
+	<channel name="RU TV">
+		<tvgname>RU.TV</tvgname>
+		<tvgid>100046</tvgid>
+		<tvgshift>0</tvgshift>
+	</channel>
+	<channel name="Discovery Channel HD">
+		<tvgname>Discovery_HD</tvgname>
+		<tvgid>100047</tvgid>
+		<tvgshift>0</tvgshift>
+	</channel>
+	<channel name="Eurosport HD">
+		<tvgname>Eurosport_HD</tvgname>
+		<tvgid>100048</tvgid>
+		<tvgshift>0</tvgshift>
+	</channel>
+	<channel name="JimJam">
+		<tvgname>JimJam</tvgname>
+		<tvgid>100049</tvgid>
+		<tvgshift>0</tvgshift>
+	</channel>
+	<channel name="Universal Channel">
+		<tvgname>Universal_Channel</tvgname>
+		<tvgid>100050</tvgid>
+		<tvgshift>0</tvgshift>
+	</channel>
+	<channel name="Nat Geo Wild">
+		<tvgname>Nat_Geo_WILD</tvgname>
+		<tvgid>100051</tvgid>
+		<tvgshift>0</tvgshift>
+	</channel>
+	<channel name="TiJi">
+		<tvgname>Tiji_</tvgname>
+		<tvgid>100054</tvgid>
+		<tvgshift>0</tvgshift>
+	</channel>
+	<channel name="Disney Channel">
+		<tvgname>Disney_Channel</tvgname>
+		<tvgid>100055</tvgid>
+		<tvgshift>0</tvgshift>
+	</channel>
+	<channel name="Investigation Discovery (резерв)">
+		<tvgname>Investigation_Discovery</tvgname>
+		<tvgid>100056</tvgid>
+		<tvgshift>0</tvgshift>
+	</channel>
+	<channel name="Investigation Discovery Europe">
+		<tvgname>Investigation_Discovery</tvgname>
+		<tvgid>100056</tvgid>
+		<tvgshift>0</tvgshift>
+	</channel>
+	<channel name="Mezzo Live HD">
+		<tvgname>Mezzo_Live_HD</tvgname>
+		<tvgid>100060</tvgid>
+		<tvgshift>0</tvgshift>
+	</channel>
+	<channel name="Кинорейс 1">
+		<tvgname>Кинорейс_1_(НТВ)</tvgname>
+		<tvgid>100061</tvgid>
+		<tvgshift>0</tvgshift>
+	</channel>
+	<channel name="Кинорейс 2">
+		<tvgname>Кинорейс_2_(НТВ)</tvgname>
+		<tvgid>100062</tvgid>
+		<tvgshift>0</tvgshift>
+	</channel>
+	<channel name="Кинорейс 3">
+		<tvgname>Кинорейс_3_(НТВ)</tvgname>
+		<tvgid>100063</tvgid>
+		<tvgshift>0</tvgshift>
+	</channel>
+	<channel name="Кинорейс 4">
+		<tvgname>Кинорейс_4_(НТВ)</tvgname>
+		<tvgid>100064</tvgid>
+		<tvgshift>0</tvgshift>
+	</channel>
+	<channel name="Кинорейс 5">
+		<tvgname>Кинорейс_5_(НТВ)</tvgname>
+		<tvgid>100065</tvgid>
+		<tvgshift>0</tvgshift>
+	</channel>
+	<channel name="Комсомольская правда">
+		<tvgname>Комсомольская_правда</tvgname>
+		<tvgid>100067</tvgid>
+		<tvgshift>0</tvgshift>
+	</channel>
+	<channel name="НТВ+ Футбол 2 HD">
+		<tvgname>НТВ-ПЛЮС_Футбол_2_HD</tvgname>
+		<tvgid>100069</tvgid>
+		<tvgshift>0</tvgshift>
+	</channel>
+	<channel name="НТВ+ 3D">
+		<tvgname>НТВ-ПЛЮС_3D_by_PANASONIC</tvgname>
+		<tvgid>100070</tvgid>
+		<tvgshift>0</tvgshift>
+	</channel>
+	<channel name="Бойцовский клуб">
+		<tvgname>Бойцовский_клуб</tvgname>
+		<tvgid>100071</tvgid>
+		<tvgshift>0</tvgshift>
+	</channel>
+	<channel name="Бойцовский клуб (резерв)">
+		<tvgname>Бойцовский_клуб</tvgname>
+		<tvgid>100071</tvgid>
+		<tvgshift>0</tvgshift>
+	</channel>
+	<channel name="Спорт 1 HD">
+		<tvgname>Спорт_1_(HD)</tvgname>
+		<tvgid>100072</tvgid>
+		<tvgshift>0</tvgshift>
+	</channel>
+	<channel name="Business">
+		<tvgname>Business_(Украина)</tvgname>
+		<tvgid>100073</tvgid>
+		<tvgshift>0</tvgshift>
+	</channel>
+	<channel name="Life News">
+		<tvgname>Lifenews</tvgname>
+		<tvgid>100078</tvgid>
+		<tvgshift>0</tvgshift>
+	</channel>
+	<channel name="History Channel HD">
+		<tvgname>History_HD</tvgname>
+		<tvgid>100080</tvgid>
+		<tvgshift>0</tvgshift>
+	</channel>
+	<channel name="Travel Channel HD">
+		<tvgname>Travel_Channel_HD</tvgname>
+		<tvgid>100081</tvgid>
+		<tvgshift>0</tvgshift>
+	</channel>
+	<channel name="History Channel">
+		<tvgname>History</tvgname>
+		<tvgid>100082</tvgid>
+		<tvgshift>0</tvgshift>
+	</channel>
+	<channel name="ТНТ">
+		<tvgname>ТНТ</tvgname>
+		<tvgid>101</tvgid>
+		<tvgshift>0</tvgshift>
+	</channel>
+	<channel name="НТВ+ Спорт">
+		<tvgname>НТВ-ПЛЮС_Спорт</tvgname>
+		<tvgid>1018</tvgid>
+		<tvgshift>0</tvgshift>
+	</channel>
+	<channel name="НТВ+ Спорт (резерв)">
+		<tvgname>НТВ-ПЛЮС_Спорт</tvgname>
+		<tvgid>1018</tvgid>
+		<tvgshift>0</tvgshift>
+	</channel>
+	<channel name="Домашний">
+		<tvgname>Домашний</tvgname>
+		<tvgid>102</tvgid>
+		<tvgshift>0</tvgshift>
+	</channel>
+	<channel name="РЕН ТВ">
+		<tvgname>РЕН_ТВ</tvgname>
+		<tvgid>103</tvgid>
+		<tvgshift>0</tvgshift>
+	</channel>
+	<channel name="Rusong TV">
+		<tvgname>Rusong_TV</tvgname>
+		<tvgid>1035</tvgid>
+		<tvgshift>0</tvgshift>
+	</channel>
+	<channel name="СТС">
+		<tvgname>СТС</tvgname>
+		<tvgid>104</tvgid>
+		<tvgshift>0</tvgshift>
+	</channel>
+	<channel name="ТВ 3">
+		<tvgname>ТВ-3</tvgname>
+		<tvgid>105</tvgid>
+		<tvgshift>0</tvgshift>
+	</channel>
+	<channel name="Оружие">
+		<tvgname>Оружие</tvgname>
+		<tvgid>1071</tvgid>
+		<tvgshift>0</tvgshift>
+	</channel>
+	<channel name="Загородная жизнь">
+		<tvgname>Загородная_жизнь</tvgname>
+		<tvgid>1078</tvgid>
+		<tvgshift>0</tvgshift>
+	</channel>
+	<channel name="Ю">
+		<tvgname>Ю-ТВ</tvgname>
+		<tvgid>108</tvgid>
+		<tvgshift>0</tvgshift>
+	</channel>
+	<channel name="Перец">
+		<tvgname>Перец</tvgname>
+		<tvgid>109</tvgid>
+		<tvgshift>0</tvgshift>
+	</channel>
+	<channel name="TBi">
+		<tvgname>ТВi</tvgname>
+		<tvgid>1167</tvgid>
+		<tvgshift>0</tvgshift>
+	</channel>
+	<channel name="TBi (резерв)">
+		<tvgname>ТВi</tvgname>
+		<tvgid>1167</tvgid>
+		<tvgshift>0</tvgshift>
+	</channel>
+	<channel name="MTV Rocks">
+		<tvgname>MTV_Rocks</tvgname>
+		<tvgid>1179</tvgid>
+		<tvgshift>0</tvgshift>
+	</channel>
+	<channel name="MTV Live HD">
+		<tvgname>MTV_Live_HD</tvgname>
+		<tvgid>1275</tvgid>
+		<tvgshift>0</tvgshift>
+	</channel>
+	<channel name="Fashion TV">
+		<tvgname>Fashion_TV</tvgname>
+		<tvgid>1282</tvgid>
+		<tvgshift>0</tvgshift>
+	</channel>
+	<channel name="Санкт-Петербург">
+		<tvgname>Санкт-Петербург</tvgname>
+		<tvgid>1307</tvgid>
+		<tvgshift>0</tvgshift>
+	</channel>
+	<channel name="Первый интернет канал Украины Троещина ТВ">
+		<tvgname>Первый_Интернет_Канал</tvgname>
+		<tvgid>1337</tvgid>
+		<tvgshift>0</tvgshift>
+	</channel>
+	<channel name="Русский бестселлер">
+		<tvgname>Русский_бестселлер</tvgname>
+		<tvgid>1367</tvgid>
+		<tvgshift>0</tvgshift>
+	</channel>
+	<channel name="Nickelodeon HD">
+		<tvgname>Nickelodeon_HD</tvgname>
+		<tvgid>1391</tvgid>
+		<tvgshift>0</tvgshift>
+	</channel>
+	<channel name="Первый деловой">
+		<tvgname>Первый_деловой</tvgname>
+		<tvgid>1403</tvgid>
+		<tvgshift>0</tvgshift>
+	</channel>
+	<channel name="MGM HD">
+		<tvgname>MGM_HD</tvgname>
+		<tvgid>1422</tvgid>
+		<tvgshift>0</tvgshift>
+	</channel>
+	<channel name="ТНВ-Планета">
+		<tvgname>ТНВ-планета</tvgname>
+		<tvgid>1429</tvgid>
+		<tvgshift>0</tvgshift>
+	</channel>
+	<channel name="Просвещение">
+		<tvgname>Просвещение</tvgname>
+		<tvgid>1433</tvgid>
+		<tvgshift>0</tvgshift>
+	</channel>
+	<channel name="НЛО ТВ">
+		<tvgname>НЛО-ТВ</tvgname>
+		<tvgid>1439</tvgid>
+		<tvgshift>0</tvgshift>
+	</channel>
+	<channel name="Ru Music">
+		<tvgname>RU_MUSIC</tvgname>
+		<tvgid>1465</tvgid>
+		<tvgshift>0</tvgshift>
+	</channel>
+	<channel name="Домашний магазин">
+		<tvgname>Домашний_магазин</tvgname>
+		<tvgid>1507</tvgid>
+		<tvgshift>0</tvgshift>
+	</channel>
+	<channel name="Motors TV">
+		<tvgname>Motors_TV</tvgname>
+		<tvgid>1510</tvgid>
+		<tvgshift>0</tvgshift>
+	</channel>
+	<channel name="Galaxy TV">
+		<tvgname>Galaxy_TV</tvgname>
+		<tvgid>1520</tvgid>
+		<tvgshift>0</tvgshift>
+	</channel>
+	<channel name="Travel + adventure HD">
+		<tvgname>Travel+Adventure_HD</tvgname>
+		<tvgid>1521</tvgid>
+		<tvgshift>0</tvgshift>
+	</channel>
+	<channel name="QTV">
+		<tvgname>QTV_(Куй_ТВ)</tvgname>
+		<tvgid>1523</tvgid>
+		<tvgshift>0</tvgshift>
+	</channel>
+	<channel name="ПлюсПлюс">
+		<tvgname>ПЛЮСПЛЮС</tvgname>
+		<tvgid>1534</tvgid>
+		<tvgshift>0</tvgshift>
+	</channel>
+	<channel name="ПлюсПлюс (резерв)">
+		<tvgname>ПЛЮСПЛЮС</tvgname>
+		<tvgid>1534</tvgid>
+		<tvgshift>0</tvgshift>
+	</channel>
+	<channel name="Стиль и мода">
+		<tvgname>Стиль_и_мода</tvgname>
+		<tvgid>1574</tvgid>
+		<tvgshift>0</tvgshift>
+	</channel>
+	<channel name="Enter Film">
+		<tvgname>Enter-фильм</tvgname>
+		<tvgid>1578</tvgid>
+		<tvgshift>0</tvgshift>
+	</channel>
+	<channel name="Enter Film (резерв)">
+		<tvgname>Enter-фильм</tvgname>
+		<tvgid>1578</tvgid>
+		<tvgshift>0</tvgshift>
+	</channel>
+	<channel name="КХЛ HD">
+		<tvgname>КХЛ_HD</tvgname>
+		<tvgid>1590</tvgid>
+		<tvgshift>0</tvgshift>
+	</channel>
+	<channel name="Maxxi-TV">
+		<tvgname>MAXXI-TV</tvgname>
+		<tvgid>1601</tvgid>
+		<tvgshift>0</tvgshift>
+	</channel>
+	<channel name="Nick Jr.">
+		<tvgname>Nick_Jr</tvgname>
+		<tvgid>1603</tvgid>
+		<tvgshift>0</tvgshift>
+	</channel>
+	<channel name="NHK World TV">
+		<tvgname>NHK_World_TV</tvgname>
+		<tvgid>1610</tvgid>
+		<tvgshift>0</tvgshift>
+	</channel>
+	<channel name="РЖД">
+		<tvgname>РЖД</tvgname>
+		<tvgid>1633</tvgid>
+		<tvgshift>0</tvgshift>
+	</channel>
+	<channel name="ТБН">
+		<tvgname>ТБН</tvgname>
+		<tvgid>1638</tvgid>
+		<tvgshift>0</tvgshift>
+	</channel>
+	<channel name="Russia Today Doc HD">
+		<tvgname>Russia_Today_Doc_(RT_Doc)</tvgname>
+		<tvgid>1658</tvgid>
+		<tvgshift>0</tvgshift>
+	</channel>
+	<channel name="Russia Today Documentary">
+		<tvgname>Russia_Today_Doc_(RT_Doc)</tvgname>
+		<tvgid>1658</tvgid>
+		<tvgshift>0</tvgshift>
+	</channel>
+	<channel name="Пятница">
+		<tvgname>Пятница</tvgname>
+		<tvgid>1671</tvgid>
+		<tvgshift>0</tvgshift>
+	</channel>
+	<channel name="Amedia Premium HD">
+		<tvgname>Amedia_Premium_HD</tvgname>
+		<tvgid>1683</tvgid>
+		<tvgshift>0</tvgshift>
+	</channel>
+	<channel name="Zoom">
+		<tvgname>Zoom</tvgname>
+		<tvgid>1692</tvgid>
+		<tvgshift>0</tvgshift>
+	</channel>
+	<channel name="Travel + adventure">
+		<tvgname>Travel+Adventure</tvgname>
+		<tvgid>1707</tvgid>
+		<tvgshift>0</tvgshift>
+	</channel>
+	<channel name="Теледом HD">
+		<tvgname>Теледом</tvgname>
+		<tvgid>1714</tvgid>
+		<tvgshift>0</tvgshift>
+	</channel>
+	<channel name="Amedia 1">
+		<tvgname>AMEDIA_1</tvgname>
+		<tvgid>1718</tvgid>
+		<tvgshift>0</tvgshift>
+	</channel>
+	<channel name="История">
+		<tvgname>История</tvgname>
+		<tvgid>1727</tvgid>
+		<tvgshift>0</tvgshift>
+	</channel>
+	<channel name="Dobro TV">
+		<tvgname>Добро_ТВ_(Украина)</tvgname>
+		<tvgid>1752</tvgid>
+		<tvgshift>0</tvgshift>
+	</channel>
+	<channel name="Paramount Comedy">
+		<tvgname>Paramount_Comedy</tvgname>
+		<tvgid>1755</tvgid>
+		<tvgshift>0</tvgshift>
+	</channel>
+	<channel name="Пиксель ТВ">
+		<tvgname>Пиксель</tvgname>
+		<tvgid>1767</tvgid>
+		<tvgshift>0</tvgshift>
+	</channel>
+	<channel name="Paramount Channel">
+		<tvgname>Paramount_Channel</tvgname>
+		<tvgid>1780</tvgid>
+		<tvgshift>0</tvgshift>
+	</channel>
+	<channel name="Русский Детектив">
+		<tvgname>Русский_детектив</tvgname>
+		<tvgid>1794</tvgid>
+		<tvgshift>0</tvgshift>
+	</channel>
+	<channel name="Русский Детектив">
+		<tvgname>Русский_детектив</tvgname>
+		<tvgid>1794</tvgid>
+		<tvgshift>0</tvgshift>
+	</channel>
+	<channel name="СТС Love">
+		<tvgname>СТС_Love</tvgname>
+		<tvgid>1800</tvgid>
+		<tvgshift>0</tvgshift>
+	</channel>
+	<channel name="Россия 1">
+		<tvgname>Россия_1</tvgname>
+		<tvgid>2</tvgid>
+		<tvgshift>0</tvgshift>
+	</channel>
+	<channel name="Россия 1 (резерв)">
+		<tvgname>Россия_1</tvgname>
+		<tvgid>2</tvgid>
+		<tvgshift>0</tvgshift>
+	</channel>
+	<channel name="Русский иллюзион">
+		<tvgname>Русский_Иллюзион</tvgname>
+		<tvgid>200000</tvgid>
+		<tvgshift>0</tvgshift>
+	</channel>
+	<channel name="Наше любимое кино">
+		<tvgname>Наше_кино</tvgname>
+		<tvgid>202</tvgid>
+		<tvgshift>0</tvgshift>
+	</channel>
+	<channel name="НТВ+ Футбол">
+		<tvgname>НТВ-ПЛЮС_Футбол</tvgname>
+		<tvgid>205</tvgid>
+		<tvgshift>0</tvgshift>
+	</channel>
+	<channel name="НТВ+ Футбол (резерв)">
+		<tvgname>НТВ-ПЛЮС_Футбол</tvgname>
+		<tvgid>205</tvgid>
+		<tvgshift>0</tvgshift>
+	</channel>
+	<channel name="Eurosport">
+		<tvgname>Eurosport</tvgname>
+		<tvgid>206</tvgid>
+		<tvgshift>0</tvgshift>
+	</channel>
+	<channel name="Eurosport (резерв)">
+		<tvgname>Eurosport</tvgname>
+		<tvgid>206</tvgid>
+		<tvgshift>0</tvgshift>
+	</channel>
+	<channel name="НТВ+ Спорт онлайн">
+		<tvgname>НТВ-ПЛЮС_Спорт_Онлайн</tvgname>
+		<tvgid>207</tvgid>
+		<tvgshift>0</tvgshift>
+	</channel>
+	<channel name="НТВ+ Спорт онлайн (резерв)">
+		<tvgname>НТВ-ПЛЮС_Спорт_Онлайн</tvgname>
+		<tvgid>207</tvgid>
+		<tvgshift>0</tvgshift>
+	</channel>
+	<channel name="EuroNews">
+		<tvgname>EuroNews</tvgname>
+		<tvgid>208</tvgid>
+		<tvgshift>0</tvgshift>
+	</channel>
+	<channel name="EuroNews UA">
+		<tvgname>EuroNews</tvgname>
+		<tvgid>208</tvgid>
+		<tvgshift>0</tvgshift>
+	</channel>
+	<channel name="Cartoon Network">
+		<tvgname>Cartoon_Network</tvgname>
+		<tvgid>211</tvgid>
+		<tvgshift>0</tvgshift>
+	</channel>
+	<channel name="CBS Drama">
+		<tvgname>CBS_Drama</tvgname>
+		<tvgid>213</tvgid>
+		<tvgshift>0</tvgshift>
+	</channel>
+	<channel name="Animal Planet">
+		<tvgname>Animal_Planet</tvgname>
+		<tvgid>214</tvgid>
+		<tvgshift>0</tvgshift>
+	</channel>
+	<channel name="Детский мир">
+		<tvgname>Детский_мир</tvgname>
+		<tvgid>216</tvgid>
+		<tvgshift>0</tvgshift>
+	</channel>
+	<channel name="Nickelodeon">
+		<tvgname>Nickelodeon</tvgname>
+		<tvgid>218</tvgid>
+		<tvgshift>0</tvgshift>
+	</channel>
+	<channel name="BBC World News">
+		<tvgname>BBC_World</tvgname>
+		<tvgid>219</tvgid>
+		<tvgshift>0</tvgshift>
+	</channel>
+	<channel name="Bloomberg">
+		<tvgname>Bloomberg</tvgname>
+		<tvgid>220</tvgid>
+		<tvgshift>0</tvgshift>
+	</channel>
+	<channel name="CNN International">
+		<tvgname>CNN_International</tvgname>
+		<tvgid>221</tvgid>
+		<tvgshift>0</tvgshift>
+	</channel>
+	<channel name="Спас ТВ">
+		<tvgname>Спас_ТВ</tvgname>
+		<tvgid>222</tvgid>
+		<tvgshift>0</tvgshift>
+	</channel>
+	<channel name="Discovery World">
+		<tvgname>Discovery_World</tvgname>
+		<tvgid>223</tvgid>
+		<tvgshift>0</tvgshift>
+	</channel>
+	<channel name="Discovery World (резерв)">
+		<tvgname>Discovery_World</tvgname>
+		<tvgid>223</tvgid>
+		<tvgshift>0</tvgshift>
+	</channel>
+	<channel name="Discovery Science">
+		<tvgname>Discovery_Science</tvgname>
+		<tvgid>224</tvgid>
+		<tvgshift>0</tvgshift>
+	</channel>
+	<channel name="Discovery Science (резерв)">
+		<tvgname>Discovery_Science</tvgname>
+		<tvgid>224</tvgid>
+		<tvgshift>0</tvgshift>
+	</channel>
+	<channel name="Discovery Science HD">
+		<tvgname>Discovery_Science</tvgname>
+		<tvgid>224</tvgid>
+		<tvgshift>0</tvgshift>
+	</channel>
+	<channel name="Discovery Channel">
+		<tvgname>Discovery</tvgname>
+		<tvgid>226</tvgid>
+		<tvgshift>0</tvgshift>
+	</channel>
+	<channel name="Mezzo">
+		<tvgname>Mezzo</tvgname>
+		<tvgid>229</tvgid>
+		<tvgshift>0</tvgshift>
+	</channel>
+	<channel name="CBS Reality">
+		<tvgname>CBS_Reality</tvgname>
+		<tvgid>230</tvgid>
+		<tvgshift>0</tvgshift>
+	</channel>
+	<channel name="VH1">
+		<tvgname>VH1_European</tvgname>
+		<tvgid>232</tvgid>
+		<tvgshift>0</tvgshift>
+	</channel>
+	<channel name="Россия 2">
+		<tvgname>Россия_2_(Спорт)</tvgname>
+		<tvgid>235</tvgid>
+		<tvgshift>0</tvgshift>
+	</channel>
+	<channel name="Пятый канал">
+		<tvgname>Пятый_Канал</tvgname>
+		<tvgid>255</tvgid>
+		<tvgshift>0</tvgshift>
+	</channel>
+	<channel name="Extreme Sports">
+		<tvgname>Extreme_Sports</tvgname>
+		<tvgid>259</tvgid>
+		<tvgshift>0</tvgshift>
+	</channel>
+	<channel name="9 ТВ Орбита">
+		<tvgname>9_Орбита</tvgname>
+		<tvgid>278</tvgid>
+		<tvgshift>0</tvgshift>
+	</channel>
+	<channel name="National Geographic">
+		<tvgname>National_Geographic</tvgname>
+		<tvgid>284</tvgid>
+		<tvgshift>0</tvgshift>
+	</channel>
+	<channel name="National Geographic (резерв)">
+		<tvgname>National_Geographic</tvgname>
+		<tvgid>284</tvgid>
+		<tvgshift>0</tvgshift>
+	</channel>
+	<channel name="TV 1000">
+		<tvgname>TV1000</tvgname>
+		<tvgid>288</tvgid>
+		<tvgshift>0</tvgshift>
+	</channel>
+	<channel name="TV XXI (TV21)">
+		<tvgname>TV_XXI_(TV21)</tvgname>
+		<tvgid>289</tvgid>
+		<tvgshift>0</tvgshift>
+	</channel>
+	<channel name="Комедия ТВ">
+		<tvgname>Комедия_ТВ</tvgname>
+		<tvgid>291</tvgid>
+		<tvgshift>0</tvgshift>
+	</channel>
+	<channel name="Travel Channel">
+		<tvgname>Travel</tvgname>
+		<tvgid>293</tvgid>
+		<tvgshift>0</tvgshift>
+	</channel>
+	<channel name="Travel Channel (резерв)">
+		<tvgname>Travel</tvgname>
+		<tvgid>293</tvgid>
+		<tvgshift>0</tvgshift>
+	</channel>
+	<channel name="MGM">
+		<tvgname>MGM</tvgname>
+		<tvgid>294</tvgid>
+		<tvgshift>0</tvgshift>
+	</channel>
+	<channel name="ТВЦ">
+		<tvgname>ТВЦ</tvgname>
+		<tvgid>3</tvgid>
+		<tvgshift>0</tvgshift>
+	</channel>
+	<channel name="TV 1000 Русское кино">
+		<tvgname>ТВ-1000_Русское_кино</tvgname>
+		<tvgid>300000</tvgid>
+		<tvgshift>0</tvgshift>
+	</channel>
+	<channel name="Viasat Sport">
+		<tvgname>Viasat_Sport</tvgname>
+		<tvgid>300002</tvgid>
+		<tvgshift>0</tvgshift>
+	</channel>
+	<channel name="Союз">
+		<tvgname>Союз</tvgname>
+		<tvgid>300006</tvgid>
+		<tvgshift>0</tvgshift>
+	</channel>
+	<channel name="Карусель">
+		<tvgname>Карусель</tvgname>
+		<tvgid>300007</tvgid>
+		<tvgshift>0</tvgshift>
+	</channel>
+	<channel name="Fox">
+		<tvgname>Fox</tvgname>
+		<tvgid>300010</tvgid>
+		<tvgshift>0</tvgshift>
+	</channel>
+	<channel name="Зоопарк">
+		<tvgname>Зоопарк</tvgname>
+		<tvgid>300011</tvgid>
+		<tvgshift>0</tvgshift>
+	</channel>
+	<channel name="Мультимания">
+		<tvgname>Мультимания</tvgname>
+		<tvgid>300012</tvgid>
+		<tvgshift>0</tvgshift>
+	</channel>
+	<channel name="Кто есть кто">
+		<tvgname>Кто_есть_кто</tvgname>
+		<tvgid>300014</tvgid>
+		<tvgshift>0</tvgshift>
+	</channel>
+	<channel name="Мать и дитя">
+		<tvgname>Мать_и_Дитя</tvgname>
+		<tvgid>300015</tvgid>
+		<tvgshift>0</tvgshift>
+	</channel>
+	<channel name="Интер">
+		<tvgname>Интер</tvgname>
+		<tvgid>300016</tvgid>
+		<tvgshift>0</tvgshift>
+	</channel>
+	<channel name="Интер (резерв)">
+		<tvgname>Интер</tvgname>
+		<tvgid>300016</tvgid>
+		<tvgshift>0</tvgshift>
+	</channel>
+	<channel name="Интер (резерв)">
+		<tvgname>Интер</tvgname>
+		<tvgid>300016</tvgid>
+		<tvgshift>0</tvgshift>
+	</channel>
+	<channel name="Интер+">
+		<tvgname>Интер+</tvgname>
+		<tvgid>300017</tvgid>
+		<tvgshift>0</tvgshift>
+	</channel>
+	<channel name="Интер+ (резерв)">
+		<tvgname>Интер+</tvgname>
+		<tvgid>300017</tvgid>
+		<tvgshift>0</tvgshift>
+	</channel>
+	<channel name="24 Техно">
+		<tvgname>24_Техно</tvgname>
+		<tvgid>300018</tvgid>
+		<tvgshift>0</tvgshift>
+	</channel>
+	<channel name="Детский">
+		<tvgname>Детский_канал</tvgname>
+		<tvgid>300020</tvgid>
+		<tvgshift>0</tvgshift>
+	</channel>
+	<channel name="RTVi">
+		<tvgname>RTVi</tvgname>
+		<tvgid>300021</tvgid>
+		<tvgshift>0</tvgshift>
+	</channel>
+	<channel name="Иллюзион+">
+		<tvgname>Иллюзион_+</tvgname>
+		<tvgid>300023</tvgid>
+		<tvgshift>0</tvgshift>
+	</channel>
+	<channel name="Феникс+ Кино">
+		<tvgname>Феникс+Кино</tvgname>
+		<tvgid>300025</tvgid>
+		<tvgshift>0</tvgshift>
+	</channel>
+	<channel name="Zee TV">
+		<tvgname>Zee_TV</tvgname>
+		<tvgid>300032</tvgid>
+		<tvgshift>0</tvgshift>
+	</channel>
+	<channel name="Сарафан ТВ">
+		<tvgname>Сарафан_ТВ</tvgname>
+		<tvgid>300035</tvgid>
+		<tvgshift>0</tvgshift>
+	</channel>
+	<channel name="Deutsche Welle">
+		<tvgname>Deutsche_Welle</tvgname>
+		<tvgid>300036</tvgid>
+		<tvgshift>0</tvgshift>
+	</channel>
+	<channel name="Bridge TV">
+		<tvgname>Bridge_TV</tvgname>
+		<tvgid>300037</tvgid>
+		<tvgshift>0</tvgshift>
+	</channel>
+	<channel name="Первый национальный (Украина)">
+		<tvgname>Первый_национальный_(Украина)</tvgname>
+		<tvgid>300038</tvgid>
+		<tvgshift>0</tvgshift>
+	</channel>
+	<channel name="УТР">
+		<tvgname>УТР</tvgname>
+		<tvgid>300040</tvgid>
+		<tvgshift>0</tvgshift>
+	</channel>
+	<channel name="2+2">
+		<tvgname>2+2_(кино)</tvgname>
+		<tvgid>300046</tvgid>
+		<tvgshift>0</tvgshift>
+	</channel>
+	<channel name="National Geographic HD">
+		<tvgname>National_Geographic_HD</tvgname>
+		<tvgid>300050</tvgid>
+		<tvgshift>0</tvgshift>
+	</channel>
+	<channel name="Шансон ТВ">
+		<tvgname>Шансон_ТВ</tvgname>
+		<tvgid>300054</tvgid>
+		<tvgshift>0</tvgshift>
+	</channel>
+	<channel name="НТВ Мир">
+		<tvgname>НТВ-Мир</tvgname>
+		<tvgid>300055</tvgid>
+		<tvgshift>0</tvgshift>
+	</channel>
+	<channel name="Fox Life">
+		<tvgname>Fox_Life</tvgname>
+		<tvgid>300056</tvgid>
+		<tvgshift>0</tvgshift>
+	</channel>
+	<channel name="РТР Планета">
+		<tvgname>РТР_Планета</tvgname>
+		<tvgid>300057</tvgid>
+		<tvgshift>0</tvgshift>
+	</channel>
+	<channel name="РТР Планета (резерв)">
+		<tvgname>РТР_Планета</tvgname>
+		<tvgid>300057</tvgid>
+		<tvgshift>0</tvgshift>
+	</channel>
+	<channel name="5 канал Украина (резерв)">
+		<tvgname>5_канал_(Украина)</tvgname>
+		<tvgid>300058</tvgid>
+		<tvgshift>0</tvgshift>
+	</channel>
+	<channel name="5 канал (Украина)">
+		<tvgname>5_канал_(Украина)</tvgname>
+		<tvgid>300058</tvgid>
+		<tvgshift>0</tvgshift>
+	</channel>
+	<channel name="ICTV">
+		<tvgname>ICTV_(Украина)</tvgname>
+		<tvgid>300059</tvgid>
+		<tvgshift>0</tvgshift>
+	</channel>
+	<channel name="ICTV (резерв)">
+		<tvgname>ICTV_(Украина)</tvgname>
+		<tvgid>300059</tvgid>
+		<tvgshift>0</tvgshift>
+	</channel>
+	<channel name="НТН (Украина)">
+		<tvgname>НТН_(Украина)</tvgname>
+		<tvgid>300062</tvgid>
+		<tvgshift>0</tvgshift>
+	</channel>
+	<channel name="ВТВ">
+		<tvgname>ВТВ_(Первый_музыкальный)</tvgname>
+		<tvgid>300065</tvgid>
+		<tvgshift>0</tvgshift>
+	</channel>
+	<channel name="Еврокино">
+		<tvgname>Еврокино</tvgname>
+		<tvgid>300076</tvgid>
+		<tvgshift>0</tvgshift>
+	</channel>
+	<channel name="К1">
+		<tvgname>К1</tvgname>
+		<tvgid>300077</tvgid>
+		<tvgshift>0</tvgshift>
+	</channel>
+	<channel name="К2">
+		<tvgname>К2</tvgname>
+		<tvgid>300078</tvgid>
+		<tvgshift>0</tvgshift>
+	</channel>
+	<channel name="Улыбка ребенка">
+		<tvgname>Улыбка_ребенка</tvgname>
+		<tvgid>300081</tvgid>
+		<tvgshift>0</tvgshift>
+	</channel>
+	<channel name="Gulli">
+		<tvgname>Gulli</tvgname>
+		<tvgid>300082</tvgid>
+		<tvgshift>0</tvgshift>
+	</channel>
+	<channel name="КХЛ ТВ">
+		<tvgname>КХЛ-ТВ</tvgname>
+		<tvgid>300086</tvgid>
+		<tvgshift>0</tvgshift>
+	</channel>
+	<channel name="Первый канал (СНГ)">
+		<tvgname>Первый_канал._(СНГ)</tvgname>
+		<tvgid>300090</tvgid>
+		<tvgshift>0</tvgshift>
+	</channel>
+	<channel name="Охотник и рыболов">
+		<tvgname>Охотник_и_рыболов</tvgname>
+		<tvgid>300091</tvgid>
+		<tvgshift>0</tvgshift>
+	</channel>
+	<channel name="Охотник и рыболов HD">
+		<tvgname>Охотник_и_рыболов</tvgname>
+		<tvgid>300091</tvgid>
+		<tvgshift>0</tvgshift>
+	</channel>
+	<channel name="France 24">
+		<tvgname>France_24</tvgname>
+		<tvgid>300093</tvgid>
+		<tvgshift>0</tvgshift>
+	</channel>
+	<channel name="Психология 21">
+		<tvgname>Психология21</tvgname>
+		<tvgid>300099</tvgid>
+		<tvgshift>0</tvgshift>
+	</channel>
+	<channel name="Домашние Животные (резерв)">
+		<tvgname>Домашние_животные</tvgname>
+		<tvgid>300101</tvgid>
+		<tvgshift>0</tvgshift>
+	</channel>
+	<channel name="Домашние животные">
+		<tvgname>Домашние_животные</tvgname>
+		<tvgid>300101</tvgid>
+		<tvgshift>0</tvgshift>
+	</channel>
+	<channel name="Вопросы и ответы">
+		<tvgname>Вопросы_и_ответы</tvgname>
+		<tvgid>300102</tvgid>
+		<tvgshift>0</tvgshift>
+	</channel>
+	<channel name="Nat Geo Wild HD">
+		<tvgname>Nat_Geo_Wild_HD</tvgname>
+		<tvgid>300104</tvgid>
+		<tvgshift>0</tvgshift>
+	</channel>
+	<channel name="Наука 2.0">
+		<tvgname>Наука_2.0</tvgname>
+		<tvgid>300105</tvgid>
+		<tvgshift>0</tvgshift>
+	</channel>
+	<channel name="НТВ+ Футбол HD">
+		<tvgname>НТВ-ПЛЮС_Футбол_(HD)</tvgname>
+		<tvgid>300106</tvgid>
+		<tvgshift>0</tvgshift>
+	</channel>
+	<channel name="Animal Planet HD">
+		<tvgname>Animal_Planet_HD</tvgname>
+		<tvgid>300107</tvgid>
+		<tvgshift>0</tvgshift>
+	</channel>
+	<channel name="Дождь">
+		<tvgname>Дождь</tvgname>
+		<tvgid>300108</tvgid>
+		<tvgshift>0</tvgshift>
+	</channel>
+	<channel name="Russian Travel Guide">
+		<tvgname>Russian_Travel_Guide_(RTG_TV)</tvgname>
+		<tvgid>300109</tvgid>
+		<tvgshift>0</tvgshift>
+	</channel>
+	<channel name="Russian Travel Guide HD">
+		<tvgname>Russian_Travel_Guide_(RTG_TV)</tvgname>
+		<tvgid>300109</tvgid>
+		<tvgshift>0</tvgshift>
+	</channel>
+	<channel name="Мужской">
+		<tvgname>Мужской</tvgname>
+		<tvgid>300110</tvgid>
+		<tvgshift>0</tvgshift>
+	</channel>
+	<channel name="Первый канал (Европа)">
+		<tvgname>Первый_канал._(Европа)</tvgname>
+		<tvgid>300111</tvgid>
+		<tvgshift>0</tvgshift>
+	</channel>
+	<channel name="Первый канал Украина">
+		<tvgname>Первый_канал._(Украина)</tvgname>
+		<tvgid>300112</tvgid>
+		<tvgshift>0</tvgshift>
+	</channel>
+	<channel name="TV1000 Premium HD">
+		<tvgname>TV1000_Premium_HD</tvgname>
+		<tvgid>300114</tvgid>
+		<tvgshift>0</tvgshift>
+	</channel>
+	<channel name="TV1000 Megahit HD">
+		<tvgname>TV1000_Megahit_HD</tvgname>
+		<tvgid>300115</tvgid>
+		<tvgshift>0</tvgshift>
+	</channel>
+	<channel name="TV1000 Comedy HD">
+		<tvgname>TV1000_Comedy_HD</tvgname>
+		<tvgid>300116</tvgid>
+		<tvgshift>0</tvgshift>
+	</channel>
+	<channel name="Outdoor Channel">
+		<tvgname>Outdoor_Channel</tvgname>
+		<tvgid>300118</tvgid>
+		<tvgshift>0</tvgshift>
+	</channel>
+	<channel name="Первый образовательный">
+		<tvgname>Первый_образовательный</tvgname>
+		<tvgid>300119</tvgid>
+		<tvgshift>0</tvgshift>
+	</channel>
+	<channel name="Europa Plus TV">
+		<tvgname>Europa_Plus_TV</tvgname>
+		<tvgid>300121</tvgid>
+		<tvgshift>0</tvgshift>
+	</channel>
+	<channel name="HD Кино 2">
+		<tvgname>HD_Кино_2</tvgname>
+		<tvgid>300123</tvgid>
+		<tvgshift>0</tvgshift>
+	</channel>
+	<channel name="Россия HD">
+		<tvgname>Россия_HD</tvgname>
+		<tvgid>300124</tvgid>
+		<tvgshift>0</tvgshift>
+	</channel>
+	<channel name="Первый канал HD">
+		<tvgname>Первый_HD</tvgname>
+		<tvgid>300125</tvgid>
+		<tvgshift>0</tvgshift>
+	</channel>
+	<channel name="TLC HD">
+		<tvgname>TLC_HD</tvgname>
+		<tvgid>300131</tvgid>
+		<tvgshift>0</tvgshift>
+	</channel>
+	<channel name="ТРК Киев">
+		<tvgname>ТРК_Киев</tvgname>
+		<tvgid>311</tvgid>
+		<tvgshift>0</tvgshift>
+	</channel>
+	<channel name="М1">
+		<tvgname>М-1</tvgname>
+		<tvgid>314</tvgid>
+		<tvgshift>0</tvgshift>
+	</channel>
+	<channel name="Новый канал">
+		<tvgname>Новый_Канал</tvgname>
+		<tvgid>315</tvgid>
+		<tvgshift>0</tvgshift>
+	</channel>
+	<channel name="СТБ">
+		<tvgname>СТБ</tvgname>
+		<tvgid>318</tvgid>
+		<tvgshift>0</tvgshift>
+	</channel>
+	<channel name="ТЕТ">
+		<tvgname>ТЕТ</tvgname>
+		<tvgid>319</tvgid>
+		<tvgshift>0</tvgshift>
+	</channel>
+	<channel name="Tonis">
+		<tvgname>Тонис</tvgname>
+		<tvgid>320</tvgid>
+		<tvgshift>0</tvgshift>
+	</channel>
+	<channel name="Tonis (резерв)">
+		<tvgname>Тонис</tvgname>
+		<tvgid>320</tvgid>
+		<tvgshift>0</tvgshift>
+	</channel>
+	<channel name="ТРК Украина">
+		<tvgname>Украина</tvgname>
+		<tvgid>321</tvgid>
+		<tvgshift>0</tvgshift>
+	</channel>
+	<channel name="Viasat Explorer">
+		<tvgname>Viasat_Explorer</tvgname>
+		<tvgid>324</tvgid>
+		<tvgshift>0</tvgshift>
+	</channel>
+	<channel name="Viasat History">
+		<tvgname>Viasat_History</tvgname>
+		<tvgid>325</tvgid>
+		<tvgshift>0</tvgshift>
+	</channel>
+	<channel name="РБК">
+		<tvgname>РБК</tvgname>
+		<tvgid>326</tvgid>
+		<tvgshift>0</tvgshift>
+	</channel>
+	<channel name="Ретро ТВ">
+		<tvgname>Ретро_ТВ</tvgname>
+		<tvgid>329</tvgid>
+		<tvgshift>0</tvgshift>
+	</channel>
+	<channel name="Звезда">
+		<tvgname>Звезда</tvgname>
+		<tvgid>330</tvgid>
+		<tvgshift>0</tvgshift>
+	</channel>
+	<channel name="НТВ">
+		<tvgname>НТВ</tvgname>
+		<tvgid>4</tvgid>
+		<tvgshift>0</tvgshift>
+	</channel>
+	<channel name="Моя планета">
+		<tvgname>Моя_Планета</tvgname>
+		<tvgid>400001</tvgid>
+		<tvgshift>0</tvgshift>
+	</channel>
+	<channel name="ТВ Центр Международный">
+		<tvgname>ТВ-Центр-Международное</tvgname>
+		<tvgid>400003</tvgid>
+		<tvgshift>0</tvgshift>
+	</channel>
+	<channel name="XSPORT">
+		<tvgname>Xsport</tvgname>
+		<tvgid>400008</tvgid>
+		<tvgshift>0</tvgshift>
+	</channel>
+	<channel name="Xsport (резерв)">
+		<tvgname>Xsport</tvgname>
+		<tvgid>400008</tvgid>
+		<tvgshift>0</tvgshift>
+	</channel>
+	<channel name="Мир 24">
+		<tvgname>МИР_24</tvgname>
+		<tvgid>400009</tvgid>
+		<tvgshift>0</tvgshift>
+	</channel>
+	<channel name="Киевская Русь">
+		<tvgname>Киевская_Русь</tvgname>
+		<tvgid>400011</tvgid>
+		<tvgshift>0</tvgshift>
+	</channel>
+	<channel name="БТБ">
+		<tvgname>БТБ</tvgname>
+		<tvgid>400022</tvgid>
+		<tvgshift>0</tvgshift>
+	</channel>
+	<channel name="Гамма">
+		<tvgname>Гамма</tvgname>
+		<tvgid>400023</tvgid>
+		<tvgshift>0</tvgshift>
+	</channel>
+	<channel name="Рада Украина">
+		<tvgname>РАДА</tvgname>
+		<tvgid>400025</tvgid>
+		<tvgshift>0</tvgshift>
+	</channel>
+	<channel name="Music Box UA">
+		<tvgname>Music_Box_Ua</tvgname>
+		<tvgid>400026</tvgid>
+		<tvgshift>0</tvgshift>
+	</channel>
+	<channel name="Гумор ТБ">
+		<tvgname>Гумор_ТБ</tvgname>
+		<tvgid>400027</tvgid>
+		<tvgshift>0</tvgshift>
+	</channel>
+	<channel name="Русский роман">
+		<tvgname>Русский_роман</tvgname>
+		<tvgid>401</tvgid>
+		<tvgshift>0</tvgshift>
+	</channel>
+	<channel name="Усадьба">
+		<tvgname>Усадьба</tvgname>
+		<tvgid>432</tvgid>
+		<tvgshift>0</tvgshift>
+	</channel>
+	<channel name="Усадьба (резерв)">
+		<tvgname>Усадьба</tvgname>
+		<tvgid>432</tvgid>
+		<tvgshift>0</tvgshift>
+	</channel>
+	<channel name="НТВ+ Баскетбол">
+		<tvgname>НТВ-ПЛЮС_Баскетбол</tvgname>
+		<tvgid>454</tvgid>
+		<tvgshift>0</tvgshift>
+	</channel>
+	<channel name="НТВ+ Теннис">
+		<tvgname>НТВ-ПЛЮС_Теннис</tvgname>
+		<tvgid>455</tvgid>
+		<tvgshift>0</tvgshift>
+	</channel>
+	<channel name="НТВ+ Теннис (резерв)">
+		<tvgname>НТВ-ПЛЮС_Теннис</tvgname>
+		<tvgid>455</tvgid>
+		<tvgshift>0</tvgshift>
+	</channel>
+	<channel name="Россия К">
+		<tvgname>Россия_Культура</tvgname>
+		<tvgid>5</tvgid>
+		<tvgshift>0</tvgshift>
+	</channel>
+	<channel name="A-One">
+		<tvgname>A-ONE</tvgname>
+		<tvgid>503</tvgid>
+		<tvgshift>0</tvgshift>
+	</channel>
+	<channel name="A-One UA">
+		<tvgname>A-ONE</tvgname>
+		<tvgid>503</tvgid>
+		<tvgshift>0</tvgshift>
+	</channel>
+	<channel name="НТВ+ Наш футбол">
+		<tvgname>НТВ-ПЛЮС_Наш_Футбол</tvgname>
+		<tvgid>504</tvgid>
+		<tvgshift>0</tvgshift>
+	</channel>
+	<channel name="НТВ+ Наш футбол HD">
+		<tvgname>НТВ-ПЛЮС_Наш_Футбол</tvgname>
+		<tvgid>504</tvgid>
+		<tvgshift>0</tvgshift>
+	</channel>
+	<channel name="Драйв ТВ">
+		<tvgname>Драйв_ТВ</tvgname>
+		<tvgid>528</tvgid>
+		<tvgshift>0</tvgshift>
+	</channel>
+	<channel name="Здоровое ТВ">
+		<tvgname>Здоровое_Телевидение</tvgname>
+		<tvgid>529</tvgid>
+		<tvgshift>0</tvgshift>
+	</channel>
+	<channel name="Охота и рыбалка">
+		<tvgname>Охота_и_рыбалка</tvgname>
+		<tvgid>530</tvgid>
+		<tvgshift>0</tvgshift>
+	</channel>
+	<channel name="Русский экстрим">
+		<tvgname>Русский_Экстрим</tvgname>
+		<tvgid>540</tvgid>
+		<tvgshift>0</tvgshift>
+	</channel>
+	<channel name="Индия">
+		<tvgname>Индия</tvgname>
+		<tvgid>541</tvgid>
+		<tvgshift>0</tvgshift>
+	</channel>
+	<channel name="Авто плюс">
+		<tvgname>Авто_Плюс</tvgname>
+		<tvgid>553</tvgid>
+		<tvgshift>0</tvgshift>
+	</channel>
+	<channel name="Боец">
+		<tvgname>Боец</tvgname>
+		<tvgid>554</tvgid>
+		<tvgshift>0</tvgshift>
+	</channel>
+	<channel name="365 Дней">
+		<tvgname>365_Дней</tvgname>
+		<tvgid>556</tvgid>
+		<tvgshift>0</tvgshift>
+	</channel>
+	<channel name="Ля-минор">
+		<tvgname>Ля-Минор</tvgname>
+		<tvgid>557</tvgid>
+		<tvgshift>0</tvgshift>
+	</channel>
+	<channel name="31 канал (Казахстан)">
+		<tvgname>31_канал</tvgname>
+		<tvgid>561</tvgid>
+		<tvgshift>0</tvgshift>
+	</channel>
+	<channel name="HD Life">
+		<tvgname>HD_Life</tvgname>
+		<tvgid>568</tvgid>
+		<tvgshift>0</tvgshift>
+	</channel>
+	<channel name="Интересное ТВ">
+		<tvgname>Интересное_ТВ</tvgname>
+		<tvgid>584</tvgid>
+		<tvgshift>0</tvgshift>
+	</channel>
+	<channel name="Кухня ТВ">
+		<tvgname>Кухня_ТВ</tvgname>
+		<tvgid>585</tvgid>
+		<tvgshift>0</tvgshift>
+	</channel>
+	<channel name="STV">
+		<tvgname>STV</tvgname>
+		<tvgid>586</tvgid>
+		<tvgshift>0</tvgshift>
+	</channel>
+	<channel name="Радость моя">
+		<tvgname>Радость_Моя</tvgname>
+		<tvgid>595</tvgid>
+		<tvgshift>0</tvgshift>
+	</channel>
+	<channel name="Телекафе">
+		<tvgname>Телекафе</tvgname>
+		<tvgid>620</tvgid>
+		<tvgshift>0</tvgshift>
+	</channel>
+	<channel name="Ocean-TV">
+		<tvgname>Ocean-TV</tvgname>
+		<tvgid>636</tvgid>
+		<tvgshift>0</tvgshift>
+	</channel>
+	<channel name="Телепутешествия">
+		<tvgname>Телепутешествия</tvgname>
+		<tvgid>662</tvgid>
+		<tvgshift>0</tvgshift>
+	</channel>
+	<channel name="Кинопоказ">
+		<tvgname>Кинопоказ</tvgname>
+		<tvgid>666</tvgid>
+		<tvgshift>0</tvgshift>
+	</channel>
+	<channel name="Живи">
+		<tvgname>Живи</tvgname>
+		<tvgid>672</tvgid>
+		<tvgshift>0</tvgshift>
+	</channel>
+	<channel name="Россия 24">
+		<tvgname>Россия_24</tvgname>
+		<tvgid>676</tvgid>
+		<tvgshift>0</tvgshift>
+	</channel>
+	<channel name="Россия 24 (резерв)">
+		<tvgname>Россия_24</tvgname>
+		<tvgid>676</tvgid>
+		<tvgshift>0</tvgshift>
+	</channel>
+	<channel name="Футбол">
+		<tvgname>Футбол</tvgname>
+		<tvgid>686</tvgid>
+		<tvgshift>0</tvgshift>
+	</channel>
+	<channel name="Первый автомобильный (Украина)">
+		<tvgname>Первый_Автомобильный</tvgname>
+		<tvgid>714</tvgid>
+		<tvgshift>0</tvgshift>
+	</channel>
+	<channel name="ТРО Союза">
+		<tvgname>ТРО</tvgname>
+		<tvgid>727</tvgid>
+		<tvgshift>0</tvgshift>
+	</channel>
+	<channel name="Первый Метео">
+		<tvgname>Первый_метео</tvgname>
+		<tvgid>739</tvgid>
+		<tvgshift>0</tvgshift>
+	</channel>
+	<channel name="Shopping Live">
+		<tvgname>Shopping_Live</tvgname>
+		<tvgid>744</tvgid>
+		<tvgshift>0</tvgshift>
+	</channel>
+	<channel name="Страна">
+		<tvgname>Страна</tvgname>
+		<tvgid>887</tvgid>
+		<tvgshift>0</tvgshift>
+	</channel>
+	<channel name="News One">
+		<tvgname>NewsOne</tvgname>
+		<tvgid>900</tvgid>
+		<tvgshift>0</tvgshift>
+	</channel>
+	<channel name="Успех">
+		<tvgname>Успех</tvgname>
+		<tvgid>927</tvgid>
+		<tvgshift>0</tvgshift>
+	</channel>
+	<channel name="Спорт 1">
+		<tvgname>Спорт_1</tvgname>
+		<tvgid>940</tvgid>
+		<tvgshift>0</tvgshift>
+	</channel>
+	<channel name="8 канал">
+		<tvgname>8_Канал</tvgname>
+		<tvgid>946</tvgid>
+		<tvgshift>0</tvgshift>
+	</channel>
+	<channel name="Da Vinci Learning">
+		<tvgname>Da_Vinci</tvgname>
+		<tvgid>955</tvgid>
+		<tvgshift>0</tvgshift>
+	</channel>
+	<channel name="Еда HD">
+		<tvgname>ЕДА_HD</tvgname>
+		<tvgid>981</tvgid>
+		<tvgshift>0</tvgshift>
+	</channel>
+	<channel name="ЧП-Инфо">
+		<tvgname>ЧП.Info</tvgname>
+		<tvgid>996</tvgid>
+		<tvgshift>0</tvgshift>
+	</channel>
+</data>
