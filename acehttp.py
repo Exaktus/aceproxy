@@ -180,7 +180,7 @@ class HTTPHandler(BaseHTTPServer.BaseHTTPRequestHandler):
             try:
                 AceStuff.pluginshandlers.get(self.reqtype).handle(self)
             except Exception as e:
-                logger.error('Plugin exception: ' + repr(e))
+                logger.error('Plugin exception: ', exc_info=True)
                 self.dieWithError()
             finally:
                 self.closeConnection()

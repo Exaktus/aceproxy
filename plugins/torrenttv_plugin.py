@@ -10,6 +10,7 @@ import gevent
 from modules.PluginInterface import AceProxyPlugin
 from modules.PlaylistGenerator import PlaylistGenerator
 import config.torrenttv
+from modules.m3uHelper import m3uItem
 
 
 class Torrenttv(AceProxyPlugin):
@@ -56,20 +57,21 @@ class Torrenttv(AceProxyPlugin):
         connection.send_header('Content-Type', 'application/x-mpegurl')
         connection.end_headers()
 
-        # Match playlist with regexp
+       # Match playlist with regexp
         matches = re.finditer(r',(?P<name>\S.+) \((?P<group>.+)\)\n(?P<url>^.+$)',
                               Torrenttv.playlist, re.MULTILINE)
-        
+
         add_ts = False
         try:
             if connection.splittedpath[2].lower() == 'ts':
                 add_ts = True
         except:
             pass
-                
+
 
         playlistgen = PlaylistGenerator()
         for match in matches:
             playlistgen.addItem(match.groupdict())
 
-        connection.wfile.write(playlistgen.exportm3u(hostport, add_ts))
+        result = playlistgen.exportm3u(hostport, add_ts)
+        connection.wfile.write(result.encode('utf-8'))

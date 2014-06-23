@@ -3,28 +3,21 @@ from distutils import config
 import xml.etree.ElementTree as ET
 import os
 import os.path
+
 import config.tgvfixer
+import m3uHelper
+
 
 class TvgFix(object):
-    def getTvg(self, tvgname, name):
-        name = unicode(name, "UTF-8")
-        tvgname = unicode(tvgname, "UTF-8")
-        res = self.getLogo(name)
-        if name in self.tvgConfig:
-            res += 'tvg-name="' + self.tvgConfig[name][0] + '" tvg-id="' + self.tvgConfig[name][
-                1] + '" tvg-shift="' + self.tvgConfig[name][2] + '"'
-        else:
-            res += 'tvg-name="' + tvgname + '"'
-        res8 = res.encode("UTF-8")
-        return res8
-
-    def getLogo(self, name):
-        if name in self.tvgLogoConfig:
-            res = 'tvg-logo="' + self.tvgLogoConfig[name] + '" '
-        else:
-            res = ''
-        res8 = res.encode("UTF-8")
-        return res8
+    def fixm3u(self, item):
+        itemName=m3uHelper.decode_utf8(item.name)
+        if itemName in self.tvgConfig:
+            item.tvgname = m3uHelper.decode_utf8(self.tvgConfig[itemName][0])
+            item.tvgid = m3uHelper.decode_utf8(self.tvgConfig[itemName][1])
+            item.tvgshift = m3uHelper.decode_utf8(self.tvgConfig[itemName][2])
+        if itemName in self.tvgLogoConfig:
+            item.tvglogo = m3uHelper.decode_utf8(self.tvgLogoConfig[itemName])
+        return item
 
     def __init__(self):
         self.tvgConfig = {}
@@ -33,16 +26,16 @@ class TvgFix(object):
             tree = ET.parse(os.path.realpath(config.tgvfixer.tvgConfigPath))
             root = tree.getroot()
             for name in root.findall("channel"):
-                wrongname = name.get("name")
-                correctname = name.find("tvgname").text
-                correcttvgid = name.find("tvgid").text
-                correcttvgshift = name.find("tvgshift").text
+                wrongname = m3uHelper.decode_utf8(name.get("name"))
+                correctname = m3uHelper.decode_utf8(name.find("tvgname").text)
+                correcttvgid = m3uHelper.decode_utf8(name.find("tvgid").text)
+                correcttvgshift = m3uHelper.decode_utf8(name.find("tvgshift").text)
                 self.tvgConfig[wrongname] = [correctname, correcttvgid, correcttvgshift]
 
         if os.path.isfile(os.path.realpath(config.tgvfixer.tvgLogoConfigPath)):
             tree = ET.parse(os.path.realpath(config.tgvfixer.tvgLogoConfigPath))
             root = tree.getroot()
             for name in root.findall("channel"):
-                chName = name.get("name")
-                tgvLogoPath = name.find("tvglogo").text
+                chName = m3uHelper.decode_utf8(name.get("name"))
+                tgvLogoPath = m3uHelper.decode_utf8(name.find("tvglogo").text)
                 self.tvgLogoConfig[chName] = tgvLogoPath
