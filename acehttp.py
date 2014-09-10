@@ -26,6 +26,13 @@ import vlcclient
 import plugins.modules.ipaddr as ipaddr
 from aceclient.clientcounter import ClientCounter
 from plugins.modules.PluginInterface import AceProxyPlugin
+try:
+    import pwd
+    import grp
+except ImportError:
+    # Windows
+    pass
+
 
 
 class HTTPHandler(BaseHTTPServer.BaseHTTPRequestHandler):
@@ -411,6 +418,30 @@ class AceStuff(object):
     Inter-class interaction class
     '''
 
+# taken from http://stackoverflow.com/questions/2699907/dropping-root-permissions-in-python
+def drop_privileges(uid_name, gid_name='nogroup'):
+
+    # Get the uid/gid from the name
+    running_uid = pwd.getpwnam(uid_name).pw_uid
+    running_uid_home = pwd.getpwnam(uid_name).pw_dir
+    running_gid = grp.getgrnam(gid_name).gr_gid
+
+    # Remove group privileges
+    os.setgroups([])
+
+    # Try setting the new uid/gid
+    os.setgid(running_gid)
+    os.setuid(running_uid)
+
+    # Ensure a very conservative umask
+    old_umask = os.umask(077)
+
+    if os.getuid() == running_uid and os.getgid() == running_gid:
+        # could be useful
+        os.environ['HOME'] = running_uid_home
+        return True
+    return False
+
 def _reloadconfig(signum, frame):
     '''
     Reload configuration file.
@@ -460,8 +491,21 @@ for i in pluginslist:
         AceStuff.pluginshandlers[j] = plugininstance
     AceStuff.pluginlist.append(plugininstance)
 
+# Check whether we can bind to the defined port safely
+if AceConfig.osplatform != 'Windows' and os.getuid() != 0 and AceConfig.httpport <= 1024:
+    logger.error("Cannot bind to port " + str(AceConfig.httpport) + " without root privileges")
+    quit()
+
 server = HTTPServer((AceConfig.httphost, AceConfig.httpport), HTTPHandler)
 logger = logging.getLogger('HTTP')
+
+# Dropping root privileges if needed
+if AceConfig.osplatform != 'Windows' and AceConfig.aceproxyuser and os.getuid() == 0:
+    if drop_privileges(AceConfig.aceproxyuser):
+        logger.info("Dropped privileges to user " + AceConfig.aceproxyuser)
+    else:
+        logger.error("Cannot drop privileges to user " + AceConfig.aceproxyuser)
+        quit()
 
 # Creating ClientCounter
 AceStuff.clientcounter = ClientCounter()
