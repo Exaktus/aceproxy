@@ -37,7 +37,8 @@ class PlaylistGenerator(object):
                 item.tvgname = item.name.replace(' ', '_')
             # For .acelive and .torrent
             item.url = re.sub('^(http.+)$', lambda match: 'http://' + hostport + '/torrent/' + \
-                                                          urllib2.quote(match.group(0), '') + '/stream.mp4',
+                                                          urllib2.quote(match.group(0).encode('utf8'),
+                                                                        '') + '/stream.mp4',
                               item.url,
                               flags=re.MULTILINE)
             # For PIDs
